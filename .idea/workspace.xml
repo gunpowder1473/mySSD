@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c5aec99-485f-4540-83a1-7a06e9b715ca" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SSD$make_tfrecord.coverage" NAME="make_tfrecord Coverage Results" MODIFIED="1512974352283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mySSD$ssd_test.coverage" NAME="ssd_test Coverage Results" MODIFIED="1515506509397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mySSD$make_tfrecord.coverage" NAME="make_tfrecord Coverage Results" MODIFIED="1514870521125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSD$test.coverage" NAME="test Coverage Results" MODIFIED="1513042163196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mySSD$make_tfrecord__1_.coverage" NAME="make_tfrecord (1) Coverage Results" MODIFIED="1514957968724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tfrecord" />
+    <SUITE FILE_PATH="coverage/SSD$ssd_train.coverage" NAME="ssd_train Coverage Results" MODIFIED="1513270538436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mySSD$ssd_train.coverage" NAME="ssd_train Coverage Results" MODIFIED="1514898546433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SSD$data_fixed.coverage" NAME="data_fixed Coverage Results" MODIFIED="1512966044401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
+    <SUITE FILE_PATH="coverage/mySSD$test.coverage" NAME="test Coverage Results" MODIFIED="1515390952987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ssd_train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssd_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssd_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssd_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="67" column="26" lean-forward="false" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssd_network_calc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network/ssd_network_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+              <folding>
+                <element signature="e#3100#3141#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssd_network_struct.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network/ssd_network_struct.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2014">
+              <caret line="110" column="15" lean-forward="false" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bboxes_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bboxes/bboxes_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="106" column="44" lean-forward="false" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="make_tfrecord.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tfrecord/make_tfrecord.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1786">
+              <caret line="103" column="23" lean-forward="false" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssd_network.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network/ssd_network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1748">
+              <caret line="98" column="38" lean-forward="false" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>curFrame</find>
+      <find>.txt</find>
+      <find>MAX_ITEMS_TO_HANDLE</find>
+      <find>plt</find>
+      <find>imread</find>
+      <find>imshow</find>
+      <find>imre</find>
+      <find>flags</find>
+      <find>PIC_SIZE</find>
+      <find>train</find>
+      <find>trace_every_n_steps</find>
+      <find>rms</find>
+      <find>setOptimizer</find>
+      <find>optimizer</find>
+      <find>config</find>
+      <find>orignPicWithBboxes</find>
+      <find>have_without_choosen</find>
+      <find>include_without_choosen</find>
+      <find>where</find>
+      <find>batch_</find>
+      <find>classes</find>
+      <find>4</find>
+      <find>PicDa</find>
+      <find>30</find>
+      <find>300</find>
+      <find>512</find>
+      <find>bboxesFilter</find>
+      <find>defaultbboxesEncodeAllLayer</find>
+      <find>tensorsha</find>
+      <find>bboxesShape</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>groundtruth</replace>
+      <replace>listReshape</replace>
+      <replace>creatClones</replace>
+      <replace />
+      <replace>bboxesEncodeAllLayer</replace>
+      <replace>bboxesEncodeOneLayer</replace>
+      <replace>be_choosed</replace>
+      <replace>judge_result</replace>
+      <replace>bboxDecodeAllLayers</replace>
+      <replace>bboxDecodeOneLayer</replace>
+      <replace>npBboxesSelectALLLayers</replace>
+      <replace>npBboxesSorted</replace>
+      <replace>npBboxesJaccard</replace>
+      <replace>npBboxesFraction</replace>
+      <replace>npBboxesNms</replace>
+      <replace>pltBboxes</replace>
+      <replace>bboxesDrawOnImg</replace>
+      <replace>drawBbox</replace>
+      <replace>drawRect</replace>
+      <replace>drawLines</replace>
+      <replace>colorSelect</replace>
+      <replace>SSDNet_300</replace>
+      <replace>defaultbboxesEncodeAllLayer</replace>
+      <replace>defaultBboxesDecode</replace>
+      <replace>should_flip</replace>
+      <replace>include_without_choosen</replace>
+      <replace>include_not_choosen</replace>
+      <replace>512</replace>
+      <replace>300</replace>
+      <replace>defaultBboxesEncodeAllLayer</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>H:\SSD\tfrecord</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/make_tfrecord.py" />
+        <option value="$PROJECT_DIR$/tfrecord/make_tfrecord.py" />
+        <option value="$PROJECT_DIR$/tfrecord/analysisi_tfrecord.py" />
+        <option value="$PROJECT_DIR$/Bbox/bboxes_method.py" />
+        <option value="$PROJECT_DIR$/PreprocessingMethod/image_method.py" />
+        <option value="$PROJECT_DIR$/Tfrecord/analysisi_tfrecord.py" />
+        <option value="$PROJECT_DIR$/PreprocessingMethod/bboxes_method.py" />
+        <option value="$PROJECT_DIR$/Data/data_features.py" />
+        <option value="$PROJECT_DIR$/Common/common_Config_Class.py" />
+        <option value="$PROJECT_DIR$/Common/common_config_class.py" />
+        <option value="$PROJECT_DIR$/network/ssd_network_struct.py" />
+        <option value="$PROJECT_DIR$/Common/common_methods.py" />
+        <option value="$PROJECT_DIR$/Data/data_fixed.py" />
+        <option value="$PROJECT_DIR$/Tfrecord/analysis_tfrecord.py" />
+        <option value="$PROJECT_DIR$/Tfrecord/make_tfrecord.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Validate/ssd_validate.py" />
+        <option value="$PROJECT_DIR$/Preprocessing/image_preprocessing.py" />
+        <option value="$PROJECT_DIR$/Common/draw_boxes_lines.py" />
+        <option value="$PROJECT_DIR$/Imagine/image_method.py" />
+        <option value="$PROJECT_DIR$/network/ssd_network_calc.py" />
+        <option value="$PROJECT_DIR$/network/ssd_network.py" />
+        <option value="$PROJECT_DIR$/ssd_train.py" />
+        <option value="$PROJECT_DIR$/Bboxes/bboxes_method.py" />
+        <option value="$PROJECT_DIR$/ssd_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="Bboxes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="Imagine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="Preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSD" type="462c0819:PsiDirectoryNode" />
+              <item name="Tfrecord" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="E:/SSD-Tensorflow-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\SSD\Imagine" />
+      <recent name="H:\SSD\Bboxes" />
+      <recent name="H:\SSD\tfrecord" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ssd_train">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="make_tfrecord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tfrecord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mySSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tfrecord/make_tfrecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ssd_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mySSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssd_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ssd_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mySSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssd_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mySSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="SSD" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SSD" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.ssd_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ssd_train" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.make_tfrecord" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.ssd_train" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ssd_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.make_tfrecord" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c5aec99-485f-4540-83a1-7a06e9b715ca" name="Default" comment="" />
+      <created>1512959115166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512959115166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.50429183" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17381974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="898" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32079646" sideWeight="0.49570817" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27654868" sideWeight="0.49034336" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.49785408" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15128756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6319742" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="0" y="29" width="1920" height="1051" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2909292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="338" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorboard/__init__.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/training/supervisor.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/contrib/slim/python/slim/learning.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/gen_math_ops.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/math_ops.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py" />
+    <entry file="file://$PROJECT_DIR$/Tfrecord/class.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Lib/site-packages/numpy/core/numeric.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/array_ops.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-214082963/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="4210" column="8" lean-forward="false" selection-start-line="4210" selection-start-column="8" selection-end-line="4210" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/sparse_ops.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/core/protobuf/config_pb2.py" />
+    <entry file="file://D:/Program Files/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/Common/common_config_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Lib/xml/__init__.py" />
+    <entry file="file://D:/Program Files/Lib/xml/etree/ElementTree.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/gen_image_ops.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-214082963/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="10686" column="36" lean-forward="true" selection-start-line="10686" selection-start-column="36" selection-end-line="10686" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Lib/site-packages/tensorflow/python/ops/image_ops_impl.py" />
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="1279" column="4" lean-forward="false" selection-start-line="1279" selection-start-column="4" selection-end-line="1279" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-137848180/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="156" column="4" lean-forward="false" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="1166" column="8" lean-forward="false" selection-start-line="1166" selection-start-column="8" selection-end-line="1166" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd_plugins/extensions/types/pydevd_plugin_numpy_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="76" column="68" lean-forward="false" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/data_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-137848180/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="7027" column="10" lean-forward="false" selection-start-line="7027" selection-start-column="4" selection-end-line="7027" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/contrib/slim/python/slim/learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8702">
+          <caret line="484" column="12" lean-forward="false" selection-start-line="484" selection-start-column="2" selection-end-line="484" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Validate/ssd_validate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssd_train_500.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/python/training/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7695">
+          <caret line="422" column="6" lean-forward="false" selection-start-line="422" selection-start-column="6" selection-end-line="422" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/common_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3629">
+          <caret line="195" column="37" lean-forward="false" selection-start-line="195" selection-start-column="23" selection-end-line="195" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/python/ops/control_flow_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53713">
+          <caret line="2858" column="4" lean-forward="false" selection-start-line="2858" selection-start-column="4" selection-end-line="2858" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="3080" column="4" lean-forward="false" selection-start-line="3080" selection-start-column="4" selection-end-line="3080" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/python/ops/gen_image_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="1970" column="35" lean-forward="false" selection-start-line="1970" selection-start-column="35" selection-end-line="1970" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/python/framework/op_def_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="338" column="6" lean-forward="false" selection-start-line="338" selection-start-column="6" selection-end-line="338" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/ProgramData/Anaconda3/envs/python36/Lib/site-packages/tensorflow/python/ops/image_ops_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1488" column="64" lean-forward="false" selection-start-line="1488" selection-start-column="34" selection-end-line="1488" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/draw_boxes_lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1621">
+          <caret line="102" column="61" lean-forward="false" selection-start-line="102" selection-start-column="61" selection-end-line="102" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preprocessing/image_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Imagine/image_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/data_fixed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tfrecord/analysis_tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/ssd_network_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding>
+            <element signature="e#3100#3141#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/ssd_network_struct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="110" column="15" lean-forward="false" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tfrecord/make_tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="103" column="23" lean-forward="false" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/ssd_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="98" column="38" lean-forward="false" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bboxes/bboxes_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="106" column="44" lean-forward="false" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssd_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="67" column="26" lean-forward="false" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssd_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
